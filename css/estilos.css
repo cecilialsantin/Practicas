@@ -2,4 +2,22 @@ h1{
     color: orange;
     background-color: black;
     font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 50px;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+div{
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    height: 2cm;
+    scroll-behavior: auto;
+    padding: 10px;
+    margin:15px;
+    align-items: center;
+    align-self: center;
+    display:inline;
 }
